@@ -1,4 +1,4 @@
-[Note: you can preview files in PDF, R, and CSV format by clicking on the file]
+[Note: you can preview files that are in PDF, R, and CSV format by clicking on the file]
 
 In this class project, I was in charge of writing R codes to build classification tree model and logistic regression model based on Employee Attrition dataset downloaded from Kaggle, and tested my model accuracy by evaluating misclassification cost. I also compared testing and training misclassification costs of each model built from three model building techniques (forward selection, Lasso, and Classification tree) to check how well my model was operating in respect to the misclassification cost. To be extra safe, I also analyzed the boostrap statistics and comparing it to my logistic regression summary statistic with respect to the standard error to see if I can confirm that my forward stepwise logistic regression could still be considered my best model going forward. I concluded my analysis with a written report, with the help of my teammate by delegating tasks to finalize the report, and explained my codes and my model to my teammate so that we could write the report. 
 
